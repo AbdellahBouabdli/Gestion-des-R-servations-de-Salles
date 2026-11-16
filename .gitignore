@@ -1,0 +1,19 @@
+# Fichiers de compilation
+target/
+*.class
+
+# Fichiers temporaires
+sources.txt
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+Thumbs.db
+.DS_Store
